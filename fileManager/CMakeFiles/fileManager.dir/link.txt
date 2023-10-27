@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -static CMakeFiles/fileManager.dir/main_fm.cpp.o CMakeFiles/fileManager.dir/filemanager.cpp.o  -o fileManager -lpthread 

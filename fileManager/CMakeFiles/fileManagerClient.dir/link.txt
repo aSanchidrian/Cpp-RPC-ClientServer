@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -static CMakeFiles/fileManagerClient.dir/main_fm.cpp.o CMakeFiles/fileManagerClient.dir/filemanager_stub.cpp.o CMakeFiles/fileManagerClient.dir/utils.cpp.o CMakeFiles/fileManagerClient.dir/serialize.cpp.o  -o fileManagerClient -lpthread 

@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ubuntu/Ej0/Practica1/multMatrix/main_multMatrix.cpp
+stdio.h
+-
+stdlib.h
+-
+iostream
+-
+multmatrix.h
+/home/ubuntu/Ej0/Practica1/multMatrix/multmatrix.h
+
+/home/ubuntu/Ej0/Practica1/multMatrix/multmatrix.cpp
+multmatrix.h
+/home/ubuntu/Ej0/Practica1/multMatrix/multmatrix.h
+multmatrix.h
+/home/ubuntu/Ej0/Practica1/multMatrix/multmatrix.h
+stdio.h
+-
+stdlib.h
+-
+iostream
+-
+string
+-
+cstring
+-
+sys/types.h
+-
+unistd.h
+-
+
+/home/ubuntu/Ej0/Practica1/multMatrix/multmatrix.h
+
